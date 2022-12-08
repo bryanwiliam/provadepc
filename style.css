@@ -1,5 +1,5 @@
 body {
-    background: #CCCCCC
+    background: green;
 }
 
 h1 {
@@ -9,10 +9,15 @@ h1 {
 p{
     text-align: center;
 } 
-#missao{
+
+#santos{
     font-size: 20px
 }
 
 em strong {
-    color: red;#FF0000;
+    color: red;
+}
+
+#neymar {
+    width:100%;
 }
